@@ -56,6 +56,12 @@ background-image: url("images/kick.png");
   color: red;
 }
 
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+
 .drum {
   outline: none;
   border: 10px solid #404B69;
